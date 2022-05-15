@@ -1,6 +1,27 @@
 <h1 align="center">Hi 👋, I'm shinaj</h1>
 <h3 align="center">A passionate frontend developer,focus on a web application</h3>
+
+
+
+
+
+
+
+
+
+
 [68747470733a2f2f692e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966](https://user-images.githubusercontent.com/93591934/168497082-4224986d-14e0-4a47-bb7a-86c68f4ed550.gif)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -17,8 +38,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shinajps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shinajps" height="30" width="40" /></a>
-<a href="https://instagram.com/sjlionel" target="blank"><img align="center" src="https://raw.githubusercontent.com/ alt="sjlionel" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
