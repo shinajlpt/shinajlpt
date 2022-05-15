@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm shinaj</h1>
 <h3 align="center">A passionate frontend developer,focus on a web application</h3>
-![68747470733a2f2f692e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966](https://user-images.githubusercontent.com/93591934/168497082-4224986d-14e0-4a47-bb7a-86c68f4ed550.gif)
+[68747470733a2f2f692e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966](https://user-images.githubusercontent.com/93591934/168497082-4224986d-14e0-4a47-bb7a-86c68f4ed550.gif)
 
 
 
@@ -39,7 +39,6 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
