@@ -23,7 +23,7 @@
 
 
 
-- 🔭 I’m currently working on **react**
+- 🔭 I’m currently working on **Advance js**
 
 - 🌱 I’m currently learning **javaScript**
 
