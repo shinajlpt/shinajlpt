@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm shinaj</h1>
-<h3 align="center">A passionate frontend developer,focus on a web application</h3>
+<h1 align="center">Hi 👋, I'm Shinaj</h1>
+<h3 align="center">A Passionate frontend developer,focus on a web Application</h3>
 
 
 
@@ -23,11 +23,11 @@
 
 
 
-- 🔭 I’m currently working on **Advance js**
+- 🔭 I’m Currently Working on **Advance js**
 
-- 🌱 I’m currently learning **javaScript**
+- 🌱 I’m Currently learning **javaScript**
 
-- 👯 I’m looking to collaborate on **best team bluegen**
+- 👯 I’m Looking to collaborate on **best team bluegen**
 
 - 📫 How to reach me **shinajtdy@gmail.com**
 
