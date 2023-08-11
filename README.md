@@ -25,7 +25,7 @@
 
 - 🔭 I’m Currently Working on **Advance js**
 
-- 🌱 I’m Currently learning **javaScript**
+- 🌱 I’m Currently learning
 
 - 👯 I’m Looking to collaborate on **best team bluegen**
 
