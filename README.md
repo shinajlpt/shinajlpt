@@ -23,11 +23,8 @@
 
 
 
-- 🔭 I’m Currently Working on **Advance js**
 
-- 🌱 I’m Currently learning
-
-- 👯 I’m Looking to collaborate on **best team bluegen**
+I specialize in JavaScript and ReactJS, and I'm always looking to learn more about the latest web development trends and technologies. Let's connect and create something amazing together! 👋
 
 - 📫 How to reach me **shinajtdy@gmail.com**
 
