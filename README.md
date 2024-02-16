@@ -23,7 +23,8 @@
 
 
 
-
+<h3 align="left">🔧Career Objective:</h3>
+⚡ Motivated by a desire to evolve into an architect-level backend engineer, I am eager to leverage my current skills and continue expanding my knowledge. My goal is to lead in the design and development of complex backend systems, implementing robust and scalable solutions that align with industry best practices.
 I specialize in JavaScript and ReactJS, and I'm always looking to learn more about the latest web development trends and technologies. Let's connect and create something amazing together! 👋
 
 - 📫 How to reach me **shinajtdy@gmail.com**
@@ -34,8 +35,7 @@ I specialize in JavaScript and ReactJS, and I'm always looking to learn more abo
 <p align="left">
 <a href="https://linkedin.com/in/shinajps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shinajps" height="30" width="40" /></a>
 
-<h3 align="left">🔧Career Objective:</h3>
-⚡ Motivated by a desire to evolve into an architect-level backend engineer, I am eager to leverage my current skills and continue expanding my knowledge. My goal is to lead in the design and development of complex backend systems, implementing robust and scalable solutions that align with industry best practices.
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
